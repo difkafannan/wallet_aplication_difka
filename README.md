@@ -1,5 +1,7 @@
 # wallet_app
 
+![DemoApp](assets/demo/demo.mkv)
+
 A new Flutter project.
 
 ## Getting Started
