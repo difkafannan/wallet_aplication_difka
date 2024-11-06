@@ -1,6 +1,6 @@
 # wallet_app
 
-![DemoApp](assets/demo/demo.mkv)
+![DemoApp](assets/demo/demo.mp4)
 
 A new Flutter project.
 
