@@ -1,6 +1,9 @@
 # wallet_app
 
-![DemoApp](assets/demo/demo.mp4)
+
+[hasil dari demo aplikasi](https://github.com/user-attachments/assets/8d08d533-3efc-48c0-bb86-4cce735605b2
+)
+
 
 A new Flutter project.
 
